@@ -3,9 +3,7 @@
   <em>Ingénieur Conception • Développeur Logiciel • Simulation & Technologies Interactives</em>
 </p>
 
-<p align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Menu-Thomas)](https://git.io/streak-stats)" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Menu-Thomas&theme=dark)](https://git.io/streak-stats)
 
 ---
 
