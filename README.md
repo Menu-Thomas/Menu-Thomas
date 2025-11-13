@@ -1,86 +1,94 @@
-# 👋 Bonjour, je suis **Thomas Menu**
+<h1 align="center">✨ Thomas Menu ✨</h1>
+<p align="center">
+  <em>Ingénieur Conception • Développeur Logiciel • Simulation & Technologies Interactives</em>
+</p>
 
-Ingénieur en conception et développeur logiciel, je travaille à l’intersection entre **industrie**, **numérique** et **technologies interactives**.  
-Mon parcours mêle 5 ans d’ingénierie mécanique et process, et plus de 3 ans de développement logiciel autour de **Unity**, **3D interactive**, **Web**, **IoT** et **simulation**.  
-Je conçois, structure et prototype des solutions techniques permettant de relier systèmes physiques et expériences digitales.  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-Menu&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Mission & Vision
+
+Je conçois, structure et prototype des solutions alliant **industrie**, **3D interactive**, **Unity**, **IoT** et environnements de **simulation**.  
+Je relie les systèmes physiques aux expériences numériques grâce à un double parcours en **conception industrielle** et **développement logiciel**.  
 _Source : CV Thomas Menu :contentReference[oaicite:1]{index=1}_
 
 ---
 
-## 🧩 Compétences principales
+## 🛠️ Compétences & Tech Stack
 
-### Développement & Interaction
-- Unity3D, C#
-- Simulation interactive, level design, physique
-- Web & Mobile (JavaScript, WebGL)
-- Intégration IoT & outils connectés
-- Pipelines CI/CD, automatisation déploiement  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,js,html,css,git,github,linux,arduino&theme=dark" />
+</p>
+
+✔ Unity3D, C#, JavaScript  
+✔ Simulation & prototypage interactif  
+✔ IoT, outils connectés  
+✔ CI/CD, automatisation, Git  
+✔ Conception mécanique & process industriels  
 _Source : CV Thomas Menu :contentReference[oaicite:2]{index=2}_
-
-### Ingénierie & Conception
-- Conception mécanique & process
-- Simulation de déformation à chaud
-- Documentation technique & séquences de fabrication
-- Coordination technique et support client international  
-_Source : CV Thomas Menu :contentReference[oaicite:3]{index=3}_
 
 ---
 
-## 🚀 Expériences marquantes
+## 🏗️ Expériences Clés
 
-### 🔹 Unity Developer — EpicnPoc (2022–2024)
-- Développement de simulateurs interactifs multi-contrôleurs  
-- Intégration IoT et création d’interfaces connectées  
-- Pipelines Git / CI/CD  
-- Serious games, outils e-learning, refonte technique et sécurité  
+### 🔹 EpicnPoc — Unity Developer (2022–2024)
+- Simulateurs interactifs multi-contrôleurs  
+- Intégration IoT et interfaces connectées  
+- Pipelines **Git / CI/CD**  
+- Serious games et outils e-learning  
+_Source : CV Thomas Menu :contentReference[oaicite:3]{index=3}_
+
+### 🔹 Eramet Group — Ingénieur Conception (2017–2021)
+- Simulation de déformation à chaud  
+- Gammes de fabrication et documentation technique  
+- Support client international & coordination technique  
 _Source : CV Thomas Menu :contentReference[oaicite:4]{index=4}_
 
-### 🔹 Ingénieur Conception — Eramet Group (2017–2021)
-- Simulation de procédés de forge à chaud  
-- Définition de gammes de fabrication et dossiers techniques  
-- Coordination avec équipes de production et clients internationaux  
+---
+
+## 🏆 Distinctions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WorldSkills-🥇_Gold_2015-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WorldSkills-🏅_4th_place_2015-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Contest-🥈_2014-blueviolet?style=for-the-badge" />
+</p>
+
 _Source : CV Thomas Menu :contentReference[oaicite:5]{index=5}_
 
 ---
 
-## 🏆 Récompenses
-- 🥇 Médaille d’or – Sélections régionales WorldSkills (2015)  
-- 🏅 4ᵉ place – Finale nationale WorldSkills (2015)  
-- 🥈 2ᵉ place – Concours régional de design industriel (2014)  
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thomas-Menu&theme=tokyonight&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Menu&theme=tokyonight&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thomas-Menu&theme=tokyonight&no-frame=true&margin-w=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomas-Menu&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎮 Centres d’intérêt
+
+🔧 Simulation & systèmes interactifs  
+🛠️ Prototypage Unity & IoT  
+📐 Conception mécanique  
+🌐 Innovation entre industrie & numérique  
 _Source : CV Thomas Menu :contentReference[oaicite:6]{index=6}_
 
 ---
 
-## 🎓 Diplômes
-- Master Software Architect & Application Developer — Epitech (2024)  
-- Bachelor Web & Mobile Project Management — Epitech (2022)  
-- BTS Conception industrielle — G. Eiffel (2016)  
-_Source : CV Thomas Menu :contentReference[oaicite:7]{index=7}_
-
----
-
-## 🎯 Ce que je recherche
-- Projets **techniques**, **interactifs** ou **industriels**  
-- Missions **remote** ou **hybrides**  
-- Développement Unity / 3D / Web / IoT  
-- Collaboration avec entreprises industrielles ou studios tech  
-
----
-
-## 🌐 Portfolio & Contact
-- Portfolio : https://menuproweb.netlify.app/  
-- Email : t.menupro@gmail.com  
-
-Merci de votre visite 👋  
-N’hésitez pas à me contacter pour échanger autour de projets techniques, interactifs ou industriels.
-
-
-
-Tech exploration and learning
-
-<div align="center">
-🌸 Let’s build useful & meaningful interactive tools.
-
-Feel free to explore my projects or reach out!
-
-</div>
+<p align="center">
+  <a href="https://menuproweb.netlify.app/">🌐 Portfolio</a> • 
+  <a href="mailto:t.menupro@gmail.com">📧 Me contacter</a>
+</p>
