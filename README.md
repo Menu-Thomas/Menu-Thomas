@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Menu-Thomas&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Menu-Thomas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ---
 
@@ -86,4 +85,3 @@ Je relie les systèmes physiques aux expériences numériques grâce à un doubl
   <a href="https://menuproweb.netlify.app/">🌐 Portfolio</a> • 
   <a href="mailto:t.menupro@gmail.com">📧 Me contacter</a>
 </p>
-
