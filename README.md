@@ -3,14 +3,18 @@
   <em>Ingénieur Conception • Développeur Logiciel • Simulation & Technologies Interactives</em>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Menu-Thomas&theme=nightfox" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Menu-Thomas&theme=nightfox&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
 
 ## 🎯 Mission & Vision
 
 Je conçois, structure et prototype des solutions alliant **industrie**, **3D interactive**, **Unity**, **IoT** et environnements de **simulation**.  
-Je relie les systèmes physiques aux expériences numériques grâce à un double parcours en **conception industrielle** et **développement logiciel**.  
-_Source : CV Thomas Menu :contentReference[oaicite:1]{index=1}_
+Je relie les systèmes physiques aux expériences numériques grâce à un double parcours en **conception industrielle** et **développement logiciel**.
 
 ---
 
@@ -25,7 +29,6 @@ _Source : CV Thomas Menu :contentReference[oaicite:1]{index=1}_
 ✔ IoT, outils connectés  
 ✔ CI/CD, automatisation, Git  
 ✔ Conception mécanique & process industriels  
-_Source : CV Thomas Menu :contentReference[oaicite:2]{index=2}_
 
 ---
 
@@ -36,13 +39,11 @@ _Source : CV Thomas Menu :contentReference[oaicite:2]{index=2}_
 - Intégration IoT et interfaces connectées  
 - Pipelines **Git / CI/CD**  
 - Serious games et outils e-learning  
-_Source : CV Thomas Menu :contentReference[oaicite:3]{index=3}_
 
 ### 🔹 Eramet Group — Ingénieur Conception (2017–2021)
 - Simulation de déformation à chaud  
 - Gammes de fabrication et documentation technique  
 - Support client international & coordination technique  
-_Source : CV Thomas Menu :contentReference[oaicite:4]{index=4}_
 
 ---
 
@@ -53,8 +54,6 @@ _Source : CV Thomas Menu :contentReference[oaicite:4]{index=4}_
   <img src="https://img.shields.io/badge/WorldSkills-🏅_4th_place_2015-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design_Contest-🥈_2014-blueviolet?style=for-the-badge" />
 </p>
-
-_Source : CV Thomas Menu :contentReference[oaicite:5]{index=5}_
 
 ---
 
@@ -81,7 +80,6 @@ _Source : CV Thomas Menu :contentReference[oaicite:5]{index=5}_
 🛠️ Prototypage Unity & IoT  
 📐 Conception mécanique  
 🌐 Innovation entre industrie & numérique  
-_Source : CV Thomas Menu :contentReference[oaicite:6]{index=6}_
 
 ---
 
@@ -89,3 +87,4 @@ _Source : CV Thomas Menu :contentReference[oaicite:6]{index=6}_
   <a href="https://menuproweb.netlify.app/">🌐 Portfolio</a> • 
   <a href="mailto:t.menupro@gmail.com">📧 Me contacter</a>
 </p>
+
