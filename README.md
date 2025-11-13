@@ -1,90 +1,80 @@
-🎨 Thomas Menu
-Ingénieur Conception & Développeur Logiciel — Unity • IoT • Simulation 3D
-Engineering & Interactive Software Developer — Unity • IoT • Real-Time Simulation
-<div align="center">
+# 👋 Bonjour, je suis **Thomas Menu**
 
-</div>
-🇫🇷 À propos
+Ingénieur en conception et développeur logiciel, je travaille à l’intersection entre **industrie**, **numérique** et **technologies interactives**.  
+Mon parcours mêle 5 ans d’ingénierie mécanique et process, et plus de 3 ans de développement logiciel autour de **Unity**, **3D interactive**, **Web**, **IoT** et **simulation**.  
+Je conçois, structure et prototype des solutions techniques permettant de relier systèmes physiques et expériences digitales.  
+_Source : CV Thomas Menu :contentReference[oaicite:1]{index=1}_
 
-Je suis Thomas, ingénieur et développeur logiciel spécialisé en prototypage interactif, simulation 3D, Unity, et systèmes connectés (IoT).
-Mon parcours croise l’industrie et le numérique, avec une approche centrée sur la conception, la rigueur et l’exploration technologique.
+---
 
-Je transforme des idées techniques en outils fonctionnels, en simulateurs, ou en interfaces interactives, que ce soit sur Unity, en WebGL ou via des architectures IoT.
+## 🧩 Compétences principales
 
-🇬🇧 About Me
+### Développement & Interaction
+- Unity3D, C#
+- Simulation interactive, level design, physique
+- Web & Mobile (JavaScript, WebGL)
+- Intégration IoT & outils connectés
+- Pipelines CI/CD, automatisation déploiement  
+_Source : CV Thomas Menu :contentReference[oaicite:2]{index=2}_
 
-I’m Thomas, an engineer and software developer bridging industrial engineering and interactive technologies.
-I prototype digital tools, simulations, and connected systems with a mix of technical precision, UX awareness, and creative engineering.
+### Ingénierie & Conception
+- Conception mécanique & process
+- Simulation de déformation à chaud
+- Documentation technique & séquences de fabrication
+- Coordination technique et support client international  
+_Source : CV Thomas Menu :contentReference[oaicite:3]{index=3}_
 
-<div align="center">
-🛠️ Tech & Tools (Pastel Icons)
+---
 
-(modifiable selon tes compétences)
+## 🚀 Expériences marquantes
 
-</div>
-💼 Experience Highlights
-🚗 Epicnpoc (2022–2024) — Unity Developer / Prototyping Engineer
+### 🔹 Unity Developer — EpicnPoc (2022–2024)
+- Développement de simulateurs interactifs multi-contrôleurs  
+- Intégration IoT et création d’interfaces connectées  
+- Pipelines Git / CI/CD  
+- Serious games, outils e-learning, refonte technique et sécurité  
+_Source : CV Thomas Menu :contentReference[oaicite:4]{index=4}_
 
-Développement de simulateurs interactifs sous Unity3D
+### 🔹 Ingénieur Conception — Eramet Group (2017–2021)
+- Simulation de procédés de forge à chaud  
+- Définition de gammes de fabrication et dossiers techniques  
+- Coordination avec équipes de production et clients internationaux  
+_Source : CV Thomas Menu :contentReference[oaicite:5]{index=5}_
 
-Intégration multi-contrôleurs & interfaces connectées (IoT)
+---
 
-Workflows automatisés (Git, CI/CD)
+## 🏆 Récompenses
+- 🥇 Médaille d’or – Sélections régionales WorldSkills (2015)  
+- 🏅 4ᵉ place – Finale nationale WorldSkills (2015)  
+- 🥈 2ᵉ place – Concours régional de design industriel (2014)  
+_Source : CV Thomas Menu :contentReference[oaicite:6]{index=6}_
 
-Collaboration étroite avec UX/UI
+---
+
+## 🎓 Diplômes
+- Master Software Architect & Application Developer — Epitech (2024)  
+- Bachelor Web & Mobile Project Management — Epitech (2022)  
+- BTS Conception industrielle — G. Eiffel (2016)  
+_Source : CV Thomas Menu :contentReference[oaicite:7]{index=7}_
+
+---
+
+## 🎯 Ce que je recherche
+- Projets **techniques**, **interactifs** ou **industriels**  
+- Missions **remote** ou **hybrides**  
+- Développement Unity / 3D / Web / IoT  
+- Collaboration avec entreprises industrielles ou studios tech  
+
+---
+
+## 🌐 Portfolio & Contact
+- Portfolio : https://menuproweb.netlify.app/  
+- Email : t.menupro@gmail.com  
+
+Merci de votre visite 👋  
+N’hésitez pas à me contacter pour échanger autour de projets techniques, interactifs ou industriels.
 
 
-🏭 Eramet Group (2017–2021) — Industrial Design Engineer
-
-Simulation de procédés de forge à chaud
-
-Rédaction technique & séquencement industriel
-
-Collaboration avec des équipes internationales
-
-
-🎮 Projets interactifs & e-learning (2022)
-
-Développement de serious games & outils pédagogiques
-
-Refactor technique & amélioration des rendus / physiques
-
-Recherche de vulnérabilités et chiffrement
-
-
-<div align="center">
-📊 GitHub Stats (Pastel Themes)
-🌸 Global Stats
-
-🌿 Languages
-
-🏆 GitHub Trophies
-
-📈 Activity Graph
-
-</div>
-🎮 Interests
-🇫🇷
-
-Prototypage interactif
-
-Simulation & rendu temps réel
-
-Interfaces connectées (IoT)
-
-Conception 3D & UX
-
-Innovation numérique & outils techniques
-
-🇬🇧
-
-Interactive prototyping
-
-Real-time rendering & simulation
-
-IoT & connected interfaces
-
-UX & digital design
 
 Tech exploration and learning
 
