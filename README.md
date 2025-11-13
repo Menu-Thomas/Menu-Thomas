@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-Menu&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menu-Thomas&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -64,16 +64,16 @@ _Source : CV Thomas Menu :contentReference[oaicite:5]{index=5}_
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thomas-Menu&theme=tokyonight&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Menu&theme=tokyonight&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Menu-Thomas&theme=tokyonight&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menu-Thomas&theme=tokyonight&layout=compact&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thomas-Menu&theme=tokyonight&no-frame=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Menu-Thomas&theme=tokyonight&no-frame=true&margin-w=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomas-Menu&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Menu-Thomas&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
