@@ -4,10 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Menu-Thomas&theme=nightfox&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Menu-Thomas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
